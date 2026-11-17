@@ -1,0 +1,21 @@
+{
+  "number": 18,
+  "name": "Lemmy",
+  "source": "https://join-lemmy.org/",
+  "docker_hub": "dessalines/lemmy",
+  "tag": "0.19.21",
+  "repository": "https://github.com/waskevin/tnas-app-lemmy",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "screenshot_path": "precheck-screenshots/lemmy/x86_64/run.png",
+  "screenshot_status": "pending",
+  "developer_name": "管浩良",
+  "developer_email": "k.kuan@qq.com",
+  "submission_status": "not_submitted",
+  "scheduled_publish": "20:00",
+  "runtime_status": "startup_failed",
+  "runtime_note": "app-1  | note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace"
+}
