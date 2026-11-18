@@ -1,0 +1,6 @@
+services:
+  lemmy:
+    image: dessalines/lemmy:0.19.21
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
